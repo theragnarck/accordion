@@ -155,10 +155,10 @@ body
 
   
 .accordion:after {
-    content: url(/assets/images/icon-plus.svg);
+    content: url(./assets/images/icon-plus.svg);
 }
 .active:after {
-    content: url(/assets/images/icon-minus.svg);
+    content: url(./assets/images/icon-minus.svg);
   }
 
 button{
